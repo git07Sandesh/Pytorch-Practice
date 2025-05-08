@@ -11,5 +11,7 @@ It covers the basics of deep learning, including:
 
 I'm using this repo to document my progress and get hands-on practice with PyTorch concepts.
 
-## 📁 Folder Structure
+Feel free to explore, clone, or use these notebooks and scripts as a reference for your own PyTorch learning!
 
+🙌 Acknowledgements
+Thanks to FreeCodeCamp for their excellent PyTorch tutorials that guided this journey.
